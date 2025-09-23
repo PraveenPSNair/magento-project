@@ -14,7 +14,7 @@ text
 /var/log/supervisor/supervisord.log # Supervisor logs
 
 # Magento Logs:
-/var/www/html/var/log/              # Magento application logs
-/var/www/html/var/log/system.log    # System logs
-/var/www/html/var/log/exception.log # Exceptions
-/var/www/html/var/log/debug.log     # Debug logs
+/var/www/html/magento/var/log              # Magento application logs
+/var/www/html/magento/var/log/system.log    # System logs
+/var/www/html/magento/var/log/exception.log # Exceptions
+/var/www/html/magento/var/logdebug.log     # Debug logs
